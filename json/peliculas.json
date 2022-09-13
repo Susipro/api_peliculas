@@ -1,0 +1,93 @@
+{
+  "peliculas": [
+    {
+      
+      "imagen": "https://pics.filmaffinity.com/superman_the_movie-219321225-mmed.jpg",
+      "id": 1,
+      "nombre": "Superman",
+      "director": "Richard Donner",
+      "clasificacion": "Ficción",
+      "url_info": "https://www.filmaffinity.com/es/film170179.html"
+    },
+    {
+      "imagen": "https://pics.filmaffinity.com/pulp_fiction-210382116-mmed.jpg",
+      "id": 2,
+      "nombre": "Pulp Fiction",
+      "director": "Tarantino",
+      "clasificacion": "Acción",
+      "url_info": "https://www.filmaffinity.com/es/film160882.html"
+    },
+    {
+      "imagen": "https://pics.filmaffinity.com/super_8-421797032-mmed.jpg",
+      "id": 3,
+      "nombre": "Super 8",
+      "director": "J.J. Abrams",
+      "clasificacion": "Ficción",
+      "url_info": "https://www.filmaffinity.com/es/film685396.html"
+    },
+    {
+      "imagen": "https://pics.filmaffinity.com/300-177205452-mmed.jpg",
+      "id": 4,
+      "nombre": "300",
+      "director": "Zack Snyder",
+      "clasificacion": "Acción",
+      "url_info": "https://www.filmaffinity.com/es/film186830.html"
+    },
+    {
+      "imagen": "https://pics.filmaffinity.com/the_silence_of_the_lambs-767447992-mmed.jpg",
+      "id": 5,
+      "nombre": "El silencio de los corderos",
+      "director": "Jonathan Demme",
+      "clasificacion": "Intriga",
+      "url_info": "https://www.filmaffinity.com/es/film768790.html"
+    },
+    {
+      "imagen": "https://pics.filmaffinity.com/forrest_gump-212765827-mmed.jpg",
+      "id": 6,
+      "nombre": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "clasificacion": "Comedia",
+      "url_info": "https://www.filmaffinity.com/es/film444796.html"
+    },
+    {
+      "imagen": "https://pics.filmaffinity.com/las_hurdes_tierra_sin_pan-618902623-mmed.jpg",
+      "id": 7,
+      "nombre": "Las Hurdes",
+      "director": "Luis Buñuel",
+      "clasificacion": "Documental",
+      "url_info": "https://www.filmaffinity.com/es/film595178.html"
+    },
+    {
+      "imagen": "https://pics.filmaffinity.com/titanic-321994924-mmed.jpg",
+      "nombre": "Titanic",
+      "director":"James Cameron",
+      "clasificacion": "Romance - Drama",
+      "id": 8,
+      "url_info": "https://www.filmaffinity.com/es/film814379.html"
+    },
+    {
+      "imagen": "https://pics.filmaffinity.com/the_sixth_sense-516003703-mmed.jpg",
+      "nombre": "El sexto sentido",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "id": 9,
+      "url_info": "https://www.filmaffinity.com/es/film607127.html"
+    },
+    {
+      "imagen": "https://pics.filmaffinity.com/sagan-889271028-mmed.jpg",
+      "nombre": "Sagan",
+      "director": "Diane Kurys",
+      "clasificacion": "Drama",
+      "id": 10,
+      "url_info": "https://www.filmaffinity.com/es/film734776.html"
+    },
+    {
+      "imagen": "https://pics.filmaffinity.com/batman-910896570-mmed.jpg",
+      "nombre": "Batman",
+      "director": "Tim Burton",
+      "clasificacion": "Fantástico - Acción",
+      "id": 11,
+      "url_info": "https://www.filmaffinity.com/es/film732599.html"
+    }
+  ]
+}
